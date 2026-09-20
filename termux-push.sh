@@ -21,8 +21,8 @@ sep()   { echo -e "${C}$(printf '─%.0s' {1..52})${N}"; }
 title() { echo -e "\n${C}${B}  $1${N}"; sep; echo ""; }
 
 # ── Config ────────────────────────────────────────────────────────
-GITHUB_USER="alphashaon89"
-REPO_NAME="alpha-ultimate-erp"
+GITHUB_USER="mmshaon"
+REPO_NAME="erp5"
 BRANCH="main"
 GIT_EMAIL="alpha.ultimate0.5@gmail.com"
 GIT_NAME="Alpha Ultimate"
